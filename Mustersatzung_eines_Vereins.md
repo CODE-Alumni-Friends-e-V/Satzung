@@ -4,9 +4,9 @@
 
 ## § 1 Name und Sitz des Vereins, Geschäftsjahr
 
-(1) Der Verein führt den Namen … . Er soll in das Vereinsregister eingetragen werden und führt danach den Zusatz „e.V.".
+(1) Der Verein führt den Namen CODE Alumni & Friends. Er soll in das Vereinsregister eingetragen werden und führt danach den Zusatz „e.V.".
 
-(2) Der Verein hat seinen Sitz in … (Ort angeben).
+(2) Der Verein hat seinen Sitz in Berlin.
 
 (3) Das Geschäftsjahr ist das Kalenderjahr.
 
@@ -14,9 +14,19 @@
 
 (1) Der Verein mit Sitz in (Ortsangabe entsprechend § 1 Absatz 2) verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke" der Abgabenordnung.
 
-(2) Der Zweck des Vereins ist die Förderung … (einen oder mehrere der Tatbestände in § 52 Absatz 2 Nummer 1 bis 27 der Abgabenordnung angeben).
+(2) Der Zweck des Vereins ist die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe sowie die Förderung des Sports (§ 52 Absatz 2 Satz 1 Nummer 7 und Nummer 21 der Abgabenordnung).
 
-Der Satzungszweck wird insbesondere verwirklicht durch …
+Der Satzungszweck wird insbesondere verwirklicht durch
+
+a) die ideelle und materielle Förderung von Studierenden der CODE University of Applied Sciences, insbesondere durch Stipendien, Zuschüsse und die Unterstützung studentischer Projekte;
+
+b) die Organisation von Bildungsveranstaltungen wie Vorträgen, Workshops, Panels und Konferenzen zu fachlichen und berufsrelevanten Themen für Studierende und Alumni;
+
+c) den Aufbau und Betrieb von Mentoring-Programmen zwischen Alumni, Studierenden und Lehrenden zur Förderung der beruflichen Orientierung und Entwicklung;
+
+d) die Förderung des fachlichen Austauschs und der beruflichen Vernetzung zwischen Studierenden, Lehrenden und Alumni im Rahmen bildungsbezogener Formate;
+
+e) die Organisation und Unterstützung von Breitensport- und Freizeitsportangeboten für Studierende, Lehrende und Alumni, insbesondere durch Sportveranstaltungen und Trainingsgruppen.
 
 (3) Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
@@ -26,24 +36,29 @@ Der Satzungszweck wird insbesondere verwirklicht durch …
 
 ## § 3 Erwerb der Mitgliedschaft
 
-(1) Mitglied des Vereins kann jede (natürliche) Person werden.
+(1) Mitglied des Vereins kann jede natürliche oder juristische Person werden, die bereit ist, die Zwecke des Vereins zu unterstützen.
 
-(2) Die Aufnahme in den Verein ist in Textform beim Vorstand zu beantragen. Bei Minderjährigen ist der Aufnahmeantrag durch die gesetzlichen Vertreter zu stellen. Der Vorstand entscheidet über den Aufnahmeantrag nach freiem Ermessen. Eine Ablehnung des Antrags muss er gegenüber dem Antragsteller nicht begründen.
+(2) Die Aufnahme in den Verein ist in Textform beim Vorstand zu beantragen. Bei Minderjährigen ist der Aufnahmeantrag durch die gesetzlichen Vertreter zu stellen. Der Vorstand entscheidet über den Aufnahmeantrag nach freiem Ermessen. Eine Ablehnung des Antrags muss er gegenüber dem Antragsteller nicht begründen. Die Mitgliedschaft beginnt mit der Bestätigung der Aufnahme durch den Vorstand.
 
-(3) Auf Vorschlag des Vorstands kann die Mitgliederversammlung Mitglieder oder sonstige Personen, die sich um den Verein besonders verdient gemacht haben, zu Ehrenmitgliedern auf Lebenszeit ernennen.
+(3) Auf Vorschlag des Vorstands kann die Mitgliederversammlung Mitglieder oder sonstige Personen, die sich um den Verein besonders verdient gemacht haben, zu Ehrenmitgliedern auf Lebenszeit ernennen. Ehrenmitglieder haben die gleichen Rechte wie ordentliche Mitglieder und sind von der Beitragspflicht befreit.
 
 ## § 4 Beendigung der Mitgliedschaft
 
-(1) Die Mitgliedschaft im Verein endet durch Tod (bei juristischen Personen mit deren Erlöschen), Austritt oder Ausschluss.
+(1) Die Mitgliedschaft im Verein endet durch Tod (bei juristischen Personen mit deren Erlöschen), Austritt, Streichung oder Ausschluss.
 
-(2) Der Austritt ist in Textform gegenüber dem Vorstand zu erklären. Der Austritt kann nur mit einer Frist von drei Monaten zum Ende des Geschäftsjahres erklärt werden.
+(2) Der Austritt ist in Textform gegenüber dem Vorstand zu erklären. Er ist zum Ende des Geschäftsjahres möglich, in dem die Austrittserklärung dem Vorstand zugeht.
 
 (3) Ein Mitglied kann durch Beschluss der Mitgliederversammlung aus dem Verein ausgeschlossen werden, wenn es
 
-1. schuldhaft das Ansehen oder die Interessen des Vereins in schwerwiegender Weise schädigt oder
-2. mehr als drei Monate mit der Zahlung seiner Aufnahmegebühr oder seiner Mitgliedsbeiträge im Rückstand ist und trotz Mahnung in Textform unter Androhung des Ausschlusses die Rückstände nicht eingezahlt hat.
+1. schuldhaft das Ansehen oder die Interessen des Vereins in schwerwiegender Weise schädigt,
+2. in grober Weise gegen die Satzung oder Beschlüsse der Vereinsorgane verstößt, oder
+3. trotz Abmahnung anhaltend vereinsschädigendes Verhalten zeigt.
 
-Dem Mitglied ist Gelegenheit zu geben, in der Mitgliederversammlung zu den Gründen des Ausschlusses Stellung zu nehmen. Diese sind ihm mindestens zwei Wochen vor der Mitgliederversammlung mitzuteilen.
+(4) Vor der Beschlussfassung ist dem Mitglied unter Fristsetzung von zwei Wochen Gelegenheit zur Stellungnahme in Textform zu geben. Die Gründe des beabsichtigten Ausschlusses sind mitzuteilen. Der Beschluss ist zu begründen und dem Mitglied in Textform zuzustellen.
+
+(5) Ein Mitglied kann durch Beschluss des Vorstands aus der Mitgliederliste gestrichen werden, wenn es trotz zweimaliger Mahnung in Textform mit der Zahlung von Mitgliedsbeiträgen oder Umlagen länger als sechs Monate in Rückstand ist. Die Streichung darf erst erfolgen, wenn nach Absendung der zweiten Mahnung zwei Monate verstrichen sind und in der Mahnung die Streichung angedroht wurde. Die Streichung ist dem Mitglied in Textform mitzuteilen.
+
+(6) Gegen den Ausschlussbeschluss kann das Mitglied innerhalb eines Monats nach Zugang Beschwerde bei der Mitgliederversammlung einlegen. Die Mitgliederversammlung entscheidet auf ihrer nächsten ordentlichen Sitzung endgültig. Bis zur Entscheidung ruhen die Mitgliedschaftsrechte.
 
 ## § 5 Rechte und Pflichten der Mitglieder
 
