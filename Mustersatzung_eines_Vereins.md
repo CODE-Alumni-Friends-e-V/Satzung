@@ -1,5 +1,3 @@
-# Mustersatzung eines gemeinnützigen Vereins
-
 # Satzung
 
 ## § 1 Name und Sitz des Vereins, Geschäftsjahr
@@ -70,13 +68,13 @@ e) die Organisation und Unterstützung von Breitensport- und Freizeitsportangebo
 
 (1) Jedes Mitglied hat im Voraus fällig werdende Mitgliedsbeiträge zu entrichten.
 
-(2) Die Art und Höhe der Mitgliedsbeiträge werden von der Mitgliederversammlung festgelegt.
+(2) Die Höhe, Fälligkeit und Zahlungsweise der Mitgliedsbeiträge sowie etwaiger Umlagen werden in einer gesonderten Beitragsordnung geregelt. Die Beitragsordnung wird vom Vorstand erlassen und von der Mitgliederversammlung beschlossen. Sie ist nicht Bestandteil dieser Satzung und kann durch Beschluss der Mitgliederversammlung geändert werden.
 
 (3) Ehrenmitglieder sind von den Mitgliedsbeiträgen befreit.
 
 ## § 7 Organe des Vereins
 
-Organe des Vereins sind der Vorstand und die Mitgliederversammlung.
+Organe des Vereins sind der geschäftsführende Vorstand, der erweiterte Vorstand und die Mitgliederversammlung.
 
 ## § 8 Vorstand
 
@@ -86,26 +84,59 @@ Organe des Vereins sind der Vorstand und die Mitgliederversammlung.
 
 (3) Den Mitgliedern des Vorstands kann eine Vergütung gezahlt werden. Über die Höhe der Vergütung entscheidet die Mitgliederversammlung.
 
+(4) Zur Unterstützung des Vorstands wird ein erweiterter Vorstand gebildet. Dieser besteht aus vier Säulen, denen jeweils eine verantwortliche Person vorsteht:
+
+1. **Säule Community:** Die verantwortliche Person leitet und koordiniert alle Aufgaben im Bereich der Gemeinschaftsförderung und des Vereinslebens. Sie berichtet dem Vorstand regelmäßig über die Tätigkeit dieser Säule.
+
+2. **Säule Alumni:** Die verantwortliche Person leitet und koordiniert alle Aufgaben im Bereich der Alumni-Betreuung und -Vernetzung. Sie berichtet dem Vorstand regelmäßig über die Tätigkeit dieser Säule.
+
+3. **Säule Entrepreneurship:** Die verantwortliche Person leitet und koordiniert alle Aufgaben im Bereich der Förderung unternehmerischer Initiativen und Projekte. Sie berichtet dem Vorstand regelmäßig über die Tätigkeit dieser Säule.
+
+4. **Säule Partnerships:** Die verantwortliche Person leitet und koordiniert alle Aufgaben im Bereich der Pflege und des Aufbaus externer Partnerschaften und Kooperationen. Sie berichtet dem Vorstand regelmäßig über die Tätigkeit dieser Säule.
+
+Die Leiterinnen und Leiter der Säulen werden auf Vorschlag des Vorstands von der Mitgliederversammlung für die Dauer von einem Jahr gewählt. Eine Wiederwahl ist zulässig. Sie sind nicht vertretungsberechtigt im Sinne des § 26 BGB und erhalten keine Vergütung. Ihre konkreten Aufgaben und Befugnisse werden durch eine vom Vorstand erlassene und von der Mitgliederversammlung zu bestätigende Geschäftsordnung geregelt.
+
 ## § 9 Aufgaben des Vorstands
 
-Dem Vorstand des Vereins obliegen die Vertretung des Vereins nach § 26 BGB und die Führung seiner Geschäfte. Er hat insbesondere folgende Aufgaben:
+(1) Dem geschäftsführenden Vorstand des Vereins obliegen die Vertretung des Vereins nach § 26 BGB und die Führung seiner Geschäfte. Er hat insbesondere folgende Aufgaben:
 
 1. die Einberufung und Vorbereitung der Mitgliederversammlungen,
 2. die Ausführung von Beschlüssen der Mitgliederversammlung,
 3. die Verwaltung des Vereinsvermögens und die Anfertigung des Jahresberichts,
-4. die Aufnahme neuer Mitglieder.
+4. die Aufnahme neuer Mitglieder,
+5. den Erlass und die Anpassung der Geschäftsordnung für den erweiterten Vorstand,
+6. die Koordination und Aufsicht über die Tätigkeit des erweiterten Vorstands.
+
+(2) Der erweiterte Vorstand unterstützt den geschäftsführenden Vorstand bei der Erfüllung des Vereinszwecks. Die Leiterinnen und Leiter der Säulen haben insbesondere folgende Aufgaben:
+
+1. die eigenverantwortliche Leitung und Koordination ihrer jeweiligen Säule (Community, Alumni, Entrepreneurship, Partnerships),
+2. die regelmäßige Berichterstattung an den geschäftsführenden Vorstand über die Tätigkeiten und Entwicklungen innerhalb ihrer Säule,
+3. die Umsetzung der Beschlüsse des geschäftsführenden Vorstands und der Mitgliederversammlung im Rahmen ihrer Säule,
+4. die Mitwirkung bei der strategischen Weiterentwicklung des Vereins.
+
+(3) Die genaue Aufgabenverteilung und Befugnisse des erweiterten Vorstands werden in der Geschäftsordnung geregelt.
 
 ## § 10 Bestellung des Vorstands
 
-(1) Die Mitglieder des Vorstands werden von der Mitgliederversammlung für die Dauer von zwei Jahren einzeln gewählt. Die Wiederwahl oder die vorzeitige Abberufung eines Mitglieds durch die Mitgliederversammlung ist zulässig. Ein Mitglied bleibt nach Ablauf der regulären Amtszeit bis zur Wahl seines Nachfolgers im Amt.
+(1) Die Mitglieder des geschäftsführenden Vorstands werden von der Mitgliederversammlung für die Dauer von einem Jahr einzeln gewählt. Die Wiederwahl ist zulässig, jedoch kann ein Mitglied dasselbe Amt innerhalb des geschäftsführenden Vorstands insgesamt höchstens drei Jahre bekleiden. Ein Mitglied bleibt nach Ablauf der regulären Amtszeit bis zur Wahl seines Nachfolgers im Amt.
 
-(2) Scheidet ein Mitglied vorzeitig aus dem Vorstand aus, so sind die verbleibenden Mitglieder des Vorstands berechtigt, ein Mitglied des Vereins bis zur Wahl des Nachfolgers durch die Mitgliederversammlung in den Vorstand zu wählen.
+(2) Scheidet ein Mitglied vorzeitig aus dem geschäftsführenden Vorstand aus, so sind die verbleibenden Mitglieder des Vorstands berechtigt, ein Mitglied des Vereins bis zur Wahl des Nachfolgers durch die Mitgliederversammlung kommissarisch in den Vorstand zu berufen.
+
+(3) Die Leiterinnen und Leiter der Säulen des erweiterten Vorstands werden auf Vorschlag des geschäftsführenden Vorstands von der Mitgliederversammlung für die Dauer von einem Jahr einzeln gewählt. Die Wiederwahl ist zulässig, jedoch kann eine Person dieselbe Säule insgesamt höchstens drei Jahre leiten. Scheidet eine Person vorzeitig aus, so ist der geschäftsführende Vorstand berechtigt, kommissarisch eine Nachfolgerin oder einen Nachfolger bis zur nächsten Mitgliederversammlung zu bestimmen.
+
+(4) Wählbar in den geschäftsführenden Vorstand sowie in den erweiterten Vorstand ist nur, wer die in der Geschäftsordnung festgelegten Voraussetzungen erfüllt. Die Geschäftsordnung wird vom Vorstand erlassen und von der Mitgliederversammlung beschlossen.
+
+(5) Das scheidende Mitglied ist verpflichtet, sein Amt für einen Zeitraum von bis zu vier Wochen nach der Wahl des Nachfolgers weiterhin unterstützend auszuüben, um eine ordnungsgemäße Übergabe sicherzustellen. Das Nähere zur Amtsübergabe regelt die Geschäftsordnung.
 
 ## § 11 Beratung und Beschlussfassung des Vorstands
 
-(1) Der Vorstand tritt nach Bedarf zusammen. Die Sitzungen werden vom Vorsitzenden, bei dessen Verhinderung von seinem Stellvertreter, einberufen. Eine Einberufungsfrist von einer Woche soll eingehalten werden. Der Vorstand ist beschlussfähig, wenn mindestens zwei Mitglieder anwesend sind. Bei der Beschlussfassung entscheidet die Mehrheit der abgegebenen gültigen Stimmen. Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden, bei dessen Verhinderung die seines Stellvertreters.
+(1) Der Vorstand tritt nach Bedarf zusammen. Die Sitzungen werden vom Vorsitzenden, bei dessen Verhinderung von seinem Stellvertreter, einberufen. Eine Einberufungsfrist von einer Woche soll eingehalten werden. An den Sitzungen nehmen die Mitglieder des geschäftsführenden Vorstands sowie die Leiterinnen und Leiter der Säulen des erweiterten Vorstands teil. Weitere Vereinsmitglieder können auf Einladung des Vorsitzenden als Gäste teilnehmen, haben jedoch kein Stimmrecht.
 
-(2) Die Beschlüsse des Vorstands sind zu protokollieren. Das Protokoll ist vom Protokollführer sowie vom Vorsitzenden, bei dessen Verhinderung von seinem Stellvertreter oder einem anderen Mitglied des Vorstands zu unterschreiben.
+(2) Der Vorstand ist beschlussfähig, wenn mindestens fünf der sieben stimmberechtigten Mitglieder (drei Mitglieder des geschäftsführenden Vorstands und vier Säulen-Leitende) anwesend sind. Bei der Beschlussfassung entscheidet die Mehrheit der abgegebenen gültigen Stimmen. Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden, bei dessen Verhinderung die seines Stellvertreters.
+
+(3) Sitzungen können in Person oder in digitaler Form (z. B. per Videokonferenz) abgehalten werden. Eine Kombination beider Formate ist zulässig.
+
+(4) Die Beschlüsse des Vorstands sind zu protokollieren. Das Protokoll ist vom Protokollführer sowie vom Vorsitzenden, bei dessen Verhinderung von seinem Stellvertreter oder einem anderen Mitglied des geschäftsführenden Vorstands zu unterschreiben.
 
 ## § 12 Aufgaben der Mitgliederversammlung
 
